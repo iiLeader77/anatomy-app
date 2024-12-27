@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anatomy-app/static/css/main.0d0430b1.css",
+    "main.js": "/anatomy-app/static/js/main.37f1027e.js",
+    "index.html": "/anatomy-app/index.html",
+    "main.0d0430b1.css.map": "/anatomy-app/static/css/main.0d0430b1.css.map",
+    "main.37f1027e.js.map": "/anatomy-app/static/js/main.37f1027e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d0430b1.css",
+    "static/js/main.37f1027e.js"
+  ]
+}
